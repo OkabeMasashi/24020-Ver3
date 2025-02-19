@@ -14,6 +14,12 @@
     "categories": {
       "auth": {
         "test2402054df6f18": {}
+      },
+      "api": {
+        "test24020": {}
+      },
+      "storage": {
+        "Storage24020": {}
       }
     }
   }

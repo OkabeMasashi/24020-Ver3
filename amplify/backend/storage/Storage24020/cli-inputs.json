@@ -1,0 +1,14 @@
+{
+  "resourceName": "Storage24020",
+  "policyUUID": "51b9d85b",
+  "bucketName": "test2402006f09f45d93548e09791d8ccdcc74d47",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
